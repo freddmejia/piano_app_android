@@ -42,8 +42,7 @@
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/your-username/MyPiano.git
-   cd MyPiano
+   git clone [https://github.com/your-username/MyPiano.git](https://github.com/freddmejia/piano_app_android.git)
    ```
 2. **Open** in Android Studio. Gradle sync should resolve all dependencies.
 3. **Run** on an emulator or physical device (minSdkVersion ≥ 21).
