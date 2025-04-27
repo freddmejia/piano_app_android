@@ -1,9 +1,9 @@
-package gamer.botixone.mypiano.presentation.viewmodels
+package gamer.botixone.mypiano.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
-import gamer.botixone.mypiano.di.PianoMediaHandler
+import gamer.botixone.mypiano.data.PianoMediaHandler
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

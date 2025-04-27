@@ -9,7 +9,7 @@ import androidx.activity.viewModels
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.ui.Modifier
 import dagger.hilt.android.AndroidEntryPoint
-import gamer.botixone.mypiano.presentation.viewmodels.PianoViewModel
+import gamer.botixone.mypiano.ui.viewmodel.PianoViewModel
 import gamer.botixone.mypiano.ui.menu.PianoScreen
 import gamer.botixone.mypiano.ui.theme.MyPianoTheme
 

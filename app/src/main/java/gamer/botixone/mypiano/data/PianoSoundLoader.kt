@@ -1,4 +1,4 @@
-package gamer.botixone.mypiano.di
+package gamer.botixone.mypiano.data
 
 import android.content.Context
 import android.media.SoundPool

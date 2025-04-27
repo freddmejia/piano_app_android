@@ -1,4 +1,4 @@
-package gamer.botixone.mypiano.di
+package gamer.botixone.mypiano.data
 
 import javax.inject.Inject
 import javax.inject.Singleton

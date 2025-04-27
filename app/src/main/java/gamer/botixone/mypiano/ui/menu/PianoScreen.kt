@@ -26,8 +26,6 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.unit.times
-import androidx.hilt.navigation.compose.hiltViewModel
-import gamer.botixone.mypiano.presentation.viewmodels.PianoViewModel
 
 @Composable
 fun PianoScreen(
